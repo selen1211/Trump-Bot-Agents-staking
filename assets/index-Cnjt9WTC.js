@@ -63285,7 +63285,7 @@ const Fi = (e, t = 3) => {
       void 0
     );
   },
-  kue = "https://x.com/trumpagent_erc",
+  kue = "https://x.com/trumpagents_ai",
   Aue = "https://t.me/trumpbotagent_erc/",
   Pue = () =>
     G.jsxDEV(
